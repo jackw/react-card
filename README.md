@@ -1,3 +1,13 @@
+# React Card Tutorial
+
+The objective of this tutorial is to build the following component:
+
+![what are we building?](./docs/what-are-we-building.gif)
+
+_Inspiration for this tutorial comes from [growth.design](https://growth.design/) where I found this neat little interaction._
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
