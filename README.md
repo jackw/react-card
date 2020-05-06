@@ -1,10 +1,6 @@
-# React Card Tutorial
+# Senza Bellezza
 
-The objective of this tutorial is to build the following component:
-
-![what are we building?](./docs/what-are-we-building.gif)
-
-_Inspiration for this tutorial comes from [growth.design](https://growth.design/) where I found this neat little interaction._
+A react component library without the lipstick!
 
 ---
 
